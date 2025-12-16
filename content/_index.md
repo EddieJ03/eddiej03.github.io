@@ -3,4 +3,4 @@ title: "Home"
 ---
 
 Welcome to my blog.
-I write about algorithms, math, and systems.
+I write about topics I find interesting.
